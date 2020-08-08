@@ -2,7 +2,7 @@
 # A Hangman game created using pygame
 #
 # @authour Colin Chambachan
-# @date 
+# @date July 30th, 2020
 
 """
  Pygame base template for opening a window
